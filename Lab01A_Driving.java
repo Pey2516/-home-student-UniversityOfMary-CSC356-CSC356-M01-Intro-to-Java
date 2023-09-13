@@ -15,7 +15,7 @@ public class Lab01A_Driving
         System.out.println ("Enter the miles per gallon: " );
         System.out.println ("Enter price per gallon: ");
 
-        // Read Integer value from the keyboard and store the number entered to ‘input’
+        // Read Integer value from the keyboard and store the numbers entered
         distance = keyboard.nextDouble();
         mpg = keyboard.nextDouble();
         ppg = keyboard.nextDouble();
