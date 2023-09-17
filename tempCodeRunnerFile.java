@@ -1,1 +1,0 @@
-"You have exceeded your credit limit
