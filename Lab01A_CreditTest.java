@@ -78,6 +78,7 @@ public class Lab01A_CreditTest
         /*         Read in Credit Limit, store it in instance variable 'creditLimit' */
         /*         Use input.nextDouble() to read a Double value from the keyboard */  
 
+        //This section asks for your old balance, amount of charges used, and how many credits were used.
         System.out.print("What is your old balance?\n");
         oldBalance = input.nextDouble();
 
