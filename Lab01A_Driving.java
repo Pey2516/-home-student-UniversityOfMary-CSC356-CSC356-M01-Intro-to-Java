@@ -21,8 +21,7 @@ public class Lab01A_Driving
         ppg = keyboard.nextDouble();
         cost = (distance/mpg) * ppg;
 
-
-
+        //This section of code prints off the distance traveled, mpg,ppg, and the cost of the trips
         System.out.println ("Enter the driving distance: " + distance);
         System.out.println ("Enter miles per gallon: " + mpg);
         System.out.println ("Enter price per gallon: " + ppg);
