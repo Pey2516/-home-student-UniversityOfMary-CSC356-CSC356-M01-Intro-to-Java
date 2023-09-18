@@ -108,7 +108,8 @@ public class Lab01A_CreditTest
         {
             System.out.print("You have exceeded your credit limit.");
         }
-        else{
+        else
+        {
             /* Task 8: write code to check if the balance has increased or decreased */
             /*         between original balance and the new balance, use 'if' statement */
 
@@ -122,9 +123,6 @@ public class Lab01A_CreditTest
             }
 
         }
-
-        
-
         } 
     }
 }

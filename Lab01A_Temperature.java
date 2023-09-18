@@ -14,10 +14,10 @@ public class Lab01A_Temperature
         // Read Integer value from the keyboard and store the number entered.
         C = keyboard.nextDouble();
 
-        //Equation for convertion of Celsius to Fahrenheit.
+        //Equation for conversion of Celsius to Fahrenheit.
         F = (9.0/5.0) * C +32;
 
-        //Tells you the integer you inputed into Fahrenheit.
+        //Tells you the integer you input into Fahrenheit.
         System.out.println ("Your Celsius Degree in Fahrenheit : " + F);
     }
 }
