@@ -27,5 +27,6 @@ public class Lab01A_Driving
         System.out.println ("Enter miles per gallon: " + mpg);
         System.out.println ("Enter price per gallon: " + ppg);
         System.out.printf ("The cost of driving is $ %.2f",  cost);
+        keyboard.close();
     }
 }

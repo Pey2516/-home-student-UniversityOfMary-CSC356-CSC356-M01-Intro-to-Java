@@ -125,5 +125,6 @@ public class Lab01A_CreditTest
 
         }
         } 
+        input.close();
     }
 }

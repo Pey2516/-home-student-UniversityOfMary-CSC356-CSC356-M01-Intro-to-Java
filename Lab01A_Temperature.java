@@ -20,5 +20,6 @@ public class Lab01A_Temperature
 
         //Tells you the integer you input into Fahrenheit.
         System.out.println ("Your Celsius Degree in Fahrenheit : " + F);
+        keyboard.close();
     }
 }
