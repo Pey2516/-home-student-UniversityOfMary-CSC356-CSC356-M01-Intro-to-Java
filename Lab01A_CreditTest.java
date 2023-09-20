@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Lab01A_CreditTest 
