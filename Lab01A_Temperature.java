@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class Lab01A_Temperature 
@@ -18,7 +17,7 @@ public class Lab01A_Temperature
         //Equation for conversion of Celsius to Fahrenheit.
         F = (9.0/5.0) * C +32;
 
-        //Tells you the integer you input into Fahrenheit.
+        //Tells you the integer you input into Fahrenheit
         System.out.println ("Your Celsius Degree in Fahrenheit : " + F);
         keyboard.close();
     }

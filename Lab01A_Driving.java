@@ -1,11 +1,10 @@
-
 import java.util.Scanner;
 
 public class Lab01A_Driving 
 {
     public static void main ( String[] args )
     {
-        Scanner keyboard = new Scanner ( System.in ); //Declare and Initialize keyboard input.
+        Scanner keyboard = new Scanner ( System.in ); //Declare and Initialize keyboard input
         double distance;
         double mpg; //This is the variable for miles per gallon.
         double ppg; //This is the variable for price per gallon.

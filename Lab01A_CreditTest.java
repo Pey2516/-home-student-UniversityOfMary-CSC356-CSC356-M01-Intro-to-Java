@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class Lab01A_CreditTest 
@@ -97,7 +96,7 @@ public class Lab01A_CreditTest
 
         /* Task 6: write code to compute the new balance */
         /*         New Balance is the Old Balance minus any payments plus any new charges */
-        /*         Store this value in 'newBalance' */
+        /*         Store this value in 'newBalance'  */
         newBalance = oldBalance + charges - credits;
 
         System.out.printf("Your new balance is $%.2f \n", newBalance);
